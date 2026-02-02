@@ -249,6 +249,8 @@ node-red-contrib-dashboard-bar-chart-data (from v13+)<br/>
 https://flows.nodered.org/node/node-red-contrib-dashboard-bar-chart-data <br/>
 node-red-node-smooth (from 20+)<br/>
 https://flows.nodered.org/node/node-red-node-smooth<br/>
+node-red-node-ui-table (from 26+)<br/>
+https://flows.nodered.org/node/node-red-node-ui-table<br/>
 
 [Back to top](#index)
 </details>
