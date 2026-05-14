@@ -8,6 +8,18 @@ The versioning received an update because the logic in it was nowhere to be foun
 ## Changes
 
 ***
+
+### Version 26.5.1 Stable
+Releasse date: 2026-05-14<br>
+Changes:<br>
+- Added 1 new models to be recognized<br>
+- Removed old reference to deprecated WAR variables<br>
+- Fixed incorrectly aligned [remove] button in sensor line 3<br>
+- Fixed bug #218; No HEAT setpoint for zone 2 being sent at all. <br>
+- Fixed a small bug where the scheduler could throw an error in case a day/hour/minute has not been entered yet.<br>
+
+***
+
 ### Version 26.4.1 Stable
 Release date: 2026-04-11<br>
 Changes:</br>
