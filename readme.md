@@ -59,7 +59,9 @@
 ## Introduction
 You can connect your Panasonic heat pump to the default CZ-TAW1 module. Then you are locked in the Panasonic ecosystem depending on using the wallmounted controller or Aquarea Smart Cloud.
 
-Alternatively you can connect and control your Panasonic heat pump locally with Heishamon. The Heishamon board is created by Egyras. AWESOME job! Get one here: https://www.tindie.com/stores/thehognl/ <br/>
+Alternatively you can connect and control your Panasonic heat pump locally with Heishamon. The Heishamon board is created by Egyras. AWESOME job! Get one here: https://www.tindie.com/stores/thehognl/ <br/> <br/>
+The Node Red flow from this repository uses the above mentioned pcb to communicate with your Panasonic heat pump. <br/>
+
 ```mermaid
 ---
 config:
