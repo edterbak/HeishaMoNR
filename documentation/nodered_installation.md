@@ -71,10 +71,14 @@ Reboot Node Red for the changes to be applied.<br/>
 - node-red-node-smooth<br/>
 		https://flows.nodered.org/node/node-red-node-smooth<br/>
 - node-red-node-ui-table<br/>
-		https://flows.nodered.org/node/node-red-node-ui-table
+		https://flows.nodered.org/node/node-red-node-ui-table<br/> <br/>
+As of **Node Red version 5.0**, Dashboard 1.0 does not come bundled in a clean install anymore. You have to install it manually yourself.<br/>		
+- node-red-dashboard<br/>
+		https://flows.nodered.org/node/node-red-dashboard<br/>
 
 > [!NOTE]
-> The Dashboard 1.0 pallette is indeed deprecated by Node Red. But I have not migrated to Dashboard 2.0 yet. (=ToDo) Despite that, it still works fine.
+> The Dashboard 1.0 pallette is indeed deprecated by Node Red. This means it will no longer receive safety fixes, or updates. But it works fine. <br/>
+> Again; **It works just fine**... There is no reason to fear it will stop working at all. 
 
 [Top](#top) / [Back](../readme.md)
  
